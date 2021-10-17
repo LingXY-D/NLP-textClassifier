@@ -25,3 +25,5 @@
 4. TF-IDF处理：python TFIDF_space.py
 5. 预测分类结果：python Classifier.py
     - 原博客中作者使用的是多项式贝叶斯算法,本项目在同学的帮助下增加了逻辑回归、K近邻分类、SVC、决策树等其他方法
+
+**运行代码之前记得改路径**
